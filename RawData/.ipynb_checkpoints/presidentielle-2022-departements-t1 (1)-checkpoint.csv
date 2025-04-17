@@ -1,0 +1,1606 @@
+code_departement,libelle_departement,prenom,nom,voix
+01,Ain,Nathalie,ARTHAUD,1658
+02,Aisne,Nathalie,ARTHAUD,2038
+03,Allier,Nathalie,ARTHAUD,1359
+04,Alpes-de-Haute-Provence,Nathalie,ARTHAUD,505
+05,Hautes-Alpes,Nathalie,ARTHAUD,428
+06,Alpes-Maritimes,Nathalie,ARTHAUD,1627
+07,Ardèche,Nathalie,ARTHAUD,1219
+08,Ardennes,Nathalie,ARTHAUD,1081
+09,Ariège,Nathalie,ARTHAUD,417
+10,Aube,Nathalie,ARTHAUD,1005
+11,Aude,Nathalie,ARTHAUD,1026
+12,Aveyron,Nathalie,ARTHAUD,894
+13,Bouches-du-Rhône,Nathalie,ARTHAUD,3578
+14,Calvados,Nathalie,ARTHAUD,2757
+15,Cantal,Nathalie,ARTHAUD,555
+16,Charente,Nathalie,ARTHAUD,1319
+17,Charente-Maritime,Nathalie,ARTHAUD,2330
+18,Cher,Nathalie,ARTHAUD,1304
+19,Corrèze,Nathalie,ARTHAUD,885
+2A,Corse-du-Sud,Nathalie,ARTHAUD,197
+2B,Haute-Corse,Nathalie,ARTHAUD,257
+21,Côte-d'Or,Nathalie,ARTHAUD,1775
+22,Côtes-d'Armor,Nathalie,ARTHAUD,2603
+23,Creuse,Nathalie,ARTHAUD,490
+24,Dordogne,Nathalie,ARTHAUD,1294
+25,Doubs,Nathalie,ARTHAUD,2069
+26,Drôme,Nathalie,ARTHAUD,2041
+27,Eure,Nathalie,ARTHAUD,2197
+28,Eure-et-Loir,Nathalie,ARTHAUD,1419
+29,Finistère,Nathalie,ARTHAUD,3627
+30,Gard,Nathalie,ARTHAUD,1768
+31,Haute-Garonne,Nathalie,ARTHAUD,3006
+32,Gers,Nathalie,ARTHAUD,529
+33,Gironde,Nathalie,ARTHAUD,3679
+34,Hérault,Nathalie,ARTHAUD,2580
+35,Ille-et-Vilaine,Nathalie,ARTHAUD,3783
+36,Indre,Nathalie,ARTHAUD,1085
+37,Indre-et-Loire,Nathalie,ARTHAUD,2243
+38,Isère,Nathalie,ARTHAUD,3479
+39,Jura,Nathalie,ARTHAUD,1053
+40,Landes,Nathalie,ARTHAUD,1115
+41,Loir-et-Cher,Nathalie,ARTHAUD,1246
+42,Loire,Nathalie,ARTHAUD,2390
+43,Haute-Loire,Nathalie,ARTHAUD,1020
+44,Loire-Atlantique,Nathalie,ARTHAUD,4712
+45,Loiret,Nathalie,ARTHAUD,1959
+46,Lot,Nathalie,ARTHAUD,618
+47,Lot-et-Garonne,Nathalie,ARTHAUD,889
+48,Lozère,Nathalie,ARTHAUD,235
+49,Maine-et-Loire,Nathalie,ARTHAUD,3071
+50,Manche,Nathalie,ARTHAUD,2249
+51,Marne,Nathalie,ARTHAUD,1778
+52,Haute-Marne,Nathalie,ARTHAUD,696
+53,Mayenne,Nathalie,ARTHAUD,1273
+54,Meurthe-et-Moselle,Nathalie,ARTHAUD,2373
+55,Meuse,Nathalie,ARTHAUD,702
+56,Morbihan,Nathalie,ARTHAUD,2952
+57,Moselle,Nathalie,ARTHAUD,3499
+58,Nièvre,Nathalie,ARTHAUD,833
+59,Nord,Nathalie,ARTHAUD,7673
+60,Oise,Nathalie,ARTHAUD,2859
+61,Orne,Nathalie,ARTHAUD,1203
+62,Pas-de-Calais,Nathalie,ARTHAUD,5887
+63,Puy-de-Dôme,Nathalie,ARTHAUD,2556
+64,Pyrénées-Atlantiques,Nathalie,ARTHAUD,1677
+65,Hautes-Pyrénées,Nathalie,ARTHAUD,636
+66,Pyrénées-Orientales,Nathalie,ARTHAUD,1312
+67,Bas-Rhin,Nathalie,ARTHAUD,3687
+68,Haut-Rhin,Nathalie,ARTHAUD,2265
+69,Rhône,Nathalie,ARTHAUD,3774
+70,Haute-Saône,Nathalie,ARTHAUD,1171
+71,Saône-et-Loire,Nathalie,ARTHAUD,1979
+72,Sarthe,Nathalie,ARTHAUD,2150
+73,Savoie,Nathalie,ARTHAUD,1205
+74,Haute-Savoie,Nathalie,ARTHAUD,1880
+75,Paris,Nathalie,ARTHAUD,2891
+76,Seine-Maritime,Nathalie,ARTHAUD,4433
+77,Seine-et-Marne,Nathalie,ARTHAUD,3440
+78,Yvelines,Nathalie,ARTHAUD,2774
+79,Deux-Sèvres,Nathalie,ARTHAUD,1644
+80,Somme,Nathalie,ARTHAUD,2486
+81,Tarn,Nathalie,ARTHAUD,1175
+82,Tarn-et-Garonne,Nathalie,ARTHAUD,679
+83,Var,Nathalie,ARTHAUD,2098
+84,Vaucluse,Nathalie,ARTHAUD,1221
+85,Vendée,Nathalie,ARTHAUD,2647
+86,Vienne,Nathalie,ARTHAUD,1715
+87,Haute-Vienne,Nathalie,ARTHAUD,1457
+88,Vosges,Nathalie,ARTHAUD,1569
+89,Yonne,Nathalie,ARTHAUD,1203
+90,Territoire de Belfort,Nathalie,ARTHAUD,560
+91,Essonne,Nathalie,ARTHAUD,2831
+92,Hauts-de-Seine,Nathalie,ARTHAUD,2306
+93,Seine-Saint-Denis,Nathalie,ARTHAUD,2756
+94,Val-de-Marne,Nathalie,ARTHAUD,2504
+95,Val-d'Oise,Nathalie,ARTHAUD,2392
+971,Guadeloupe,Nathalie,ARTHAUD,1084
+972,Martinique,Nathalie,ARTHAUD,1447
+973,Guyane,Nathalie,ARTHAUD,297
+974,La Réunion,Nathalie,ARTHAUD,3538
+976,Mayotte,Nathalie,ARTHAUD,430
+988,Nouvelle-Calédonie,Nathalie,ARTHAUD,565
+987,Polynésie française,Nathalie,ARTHAUD,808
+975,Saint-Pierre-et-Miquelon,Nathalie,ARTHAUD,22
+986,Wallis et Futuna,Nathalie,ARTHAUD,98
+977_978,Saint-Martin/Saint-Barthélemy,Nathalie,ARTHAUD,41
+fr_etranger,Français établis hors de France,Nathalie,ARTHAUD,1300
+01,Ain,Fabien,ROUSSEL,5938
+02,Aisne,Fabien,ROUSSEL,5968
+03,Allier,Fabien,ROUSSEL,8119
+04,Alpes-de-Haute-Provence,Fabien,ROUSSEL,2721
+05,Hautes-Alpes,Fabien,ROUSSEL,1925
+06,Alpes-Maritimes,Fabien,ROUSSEL,8858
+07,Ardèche,Fabien,ROUSSEL,5710
+08,Ardennes,Fabien,ROUSSEL,3009
+09,Ariège,Fabien,ROUSSEL,2701
+10,Aube,Fabien,ROUSSEL,3094
+11,Aude,Fabien,ROUSSEL,5622
+12,Aveyron,Fabien,ROUSSEL,4515
+13,Bouches-du-Rhône,Fabien,ROUSSEL,24295
+14,Calvados,Fabien,ROUSSEL,8777
+15,Cantal,Fabien,ROUSSEL,2496
+16,Charente,Fabien,ROUSSEL,5374
+17,Charente-Maritime,Fabien,ROUSSEL,10002
+18,Cher,Fabien,ROUSSEL,5749
+19,Corrèze,Fabien,ROUSSEL,6292
+2A,Corse-du-Sud,Fabien,ROUSSEL,1850
+2B,Haute-Corse,Fabien,ROUSSEL,2687
+21,Côte-d'Or,Fabien,ROUSSEL,5721
+22,Côtes-d'Armor,Fabien,ROUSSEL,11628
+23,Creuse,Fabien,ROUSSEL,2430
+24,Dordogne,Fabien,ROUSSEL,8855
+25,Doubs,Fabien,ROUSSEL,5001
+26,Drôme,Fabien,ROUSSEL,6752
+27,Eure,Fabien,ROUSSEL,7056
+28,Eure-et-Loir,Fabien,ROUSSEL,4267
+29,Finistère,Fabien,ROUSSEL,15340
+30,Gard,Fabien,ROUSSEL,12123
+31,Haute-Garonne,Fabien,ROUSSEL,16307
+32,Gers,Fabien,ROUSSEL,3128
+33,Gironde,Fabien,ROUSSEL,21522
+34,Hérault,Fabien,ROUSSEL,14165
+35,Ille-et-Vilaine,Fabien,ROUSSEL,12696
+36,Indre,Fabien,ROUSSEL,3702
+37,Indre-et-Loire,Fabien,ROUSSEL,7835
+38,Isère,Fabien,ROUSSEL,14694
+39,Jura,Fabien,ROUSSEL,3166
+40,Landes,Fabien,ROUSSEL,8176
+41,Loir-et-Cher,Fabien,ROUSSEL,4507
+42,Loire,Fabien,ROUSSEL,9017
+43,Haute-Loire,Fabien,ROUSSEL,3493
+44,Loire-Atlantique,Fabien,ROUSSEL,18322
+45,Loiret,Fabien,ROUSSEL,7530
+46,Lot,Fabien,ROUSSEL,3559
+47,Lot-et-Garonne,Fabien,ROUSSEL,4970
+48,Lozère,Fabien,ROUSSEL,1343
+49,Maine-et-Loire,Fabien,ROUSSEL,8362
+50,Manche,Fabien,ROUSSEL,7368
+51,Marne,Fabien,ROUSSEL,5307
+52,Haute-Marne,Fabien,ROUSSEL,1833
+53,Mayenne,Fabien,ROUSSEL,3313
+54,Meurthe-et-Moselle,Fabien,ROUSSEL,7961
+55,Meuse,Fabien,ROUSSEL,1957
+56,Morbihan,Fabien,ROUSSEL,11529
+57,Moselle,Fabien,ROUSSEL,8750
+58,Nièvre,Fabien,ROUSSEL,4281
+59,Nord,Fabien,ROUSSEL,45902
+60,Oise,Fabien,ROUSSEL,9054
+61,Orne,Fabien,ROUSSEL,3261
+62,Pas-de-Calais,Fabien,ROUSSEL,26146
+63,Puy-de-Dôme,Fabien,ROUSSEL,12713
+64,Pyrénées-Atlantiques,Fabien,ROUSSEL,10170
+65,Hautes-Pyrénées,Fabien,ROUSSEL,4539
+66,Pyrénées-Orientales,Fabien,ROUSSEL,6509
+67,Bas-Rhin,Fabien,ROUSSEL,7015
+68,Haut-Rhin,Fabien,ROUSSEL,4649
+69,Rhône,Fabien,ROUSSEL,15938
+70,Haute-Saône,Fabien,ROUSSEL,2836
+71,Saône-et-Loire,Fabien,ROUSSEL,7419
+72,Sarthe,Fabien,ROUSSEL,6908
+73,Savoie,Fabien,ROUSSEL,5536
+74,Haute-Savoie,Fabien,ROUSSEL,5997
+75,Paris,Fabien,ROUSSEL,17267
+76,Seine-Maritime,Fabien,ROUSSEL,19896
+77,Seine-et-Marne,Fabien,ROUSSEL,12843
+78,Yvelines,Fabien,ROUSSEL,11721
+79,Deux-Sèvres,Fabien,ROUSSEL,4538
+80,Somme,Fabien,ROUSSEL,7706
+81,Tarn,Fabien,ROUSSEL,5313
+82,Tarn-et-Garonne,Fabien,ROUSSEL,3628
+83,Var,Fabien,ROUSSEL,10672
+84,Vaucluse,Fabien,ROUSSEL,6247
+85,Vendée,Fabien,ROUSSEL,8153
+86,Vienne,Fabien,ROUSSEL,6412
+87,Haute-Vienne,Fabien,ROUSSEL,8030
+88,Vosges,Fabien,ROUSSEL,3847
+89,Yonne,Fabien,ROUSSEL,4023
+90,Territoire de Belfort,Fabien,ROUSSEL,1485
+91,Essonne,Fabien,ROUSSEL,13480
+92,Hauts-de-Seine,Fabien,ROUSSEL,13170
+93,Seine-Saint-Denis,Fabien,ROUSSEL,11642
+94,Val-de-Marne,Fabien,ROUSSEL,14954
+95,Val-d'Oise,Fabien,ROUSSEL,10060
+971,Guadeloupe,Fabien,ROUSSEL,668
+972,Martinique,Fabien,ROUSSEL,747
+973,Guyane,Fabien,ROUSSEL,246
+974,La Réunion,Fabien,ROUSSEL,3074
+976,Mayotte,Fabien,ROUSSEL,206
+988,Nouvelle-Calédonie,Fabien,ROUSSEL,399
+987,Polynésie française,Fabien,ROUSSEL,368
+975,Saint-Pierre-et-Miquelon,Fabien,ROUSSEL,19
+986,Wallis et Futuna,Fabien,ROUSSEL,34
+977_978,Saint-Martin/Saint-Barthélemy,Fabien,ROUSSEL,48
+fr_etranger,Français établis hors de France,Fabien,ROUSSEL,3266
+01,Ain,Emmanuel,MACRON,92206
+02,Aisne,Emmanuel,MACRON,58721
+03,Allier,Emmanuel,MACRON,49706
+04,Alpes-de-Haute-Provence,Emmanuel,MACRON,20800
+05,Hautes-Alpes,Emmanuel,MACRON,20507
+06,Alpes-Maritimes,Emmanuel,MACRON,139707
+07,Ardèche,Emmanuel,MACRON,45353
+08,Ardennes,Emmanuel,MACRON,31656
+09,Ariège,Emmanuel,MACRON,18071
+10,Aube,Emmanuel,MACRON,38321
+11,Aude,Emmanuel,MACRON,43104
+12,Aveyron,Emmanuel,MACRON,47430
+13,Bouches-du-Rhône,Emmanuel,MACRON,229038
+14,Calvados,Emmanuel,MACRON,120366
+15,Cantal,Emmanuel,MACRON,25038
+16,Charente,Emmanuel,MACRON,53126
+17,Charente-Maritime,Emmanuel,MACRON,113753
+18,Cher,Emmanuel,MACRON,43497
+19,Corrèze,Emmanuel,MACRON,33125
+2A,Corse-du-Sud,Emmanuel,MACRON,12932
+2B,Haute-Corse,Emmanuel,MACRON,13773
+21,Côte-d'Or,Emmanuel,MACRON,80734
+22,Côtes-d'Armor,Emmanuel,MACRON,113656
+23,Creuse,Emmanuel,MACRON,15542
+24,Dordogne,Emmanuel,MACRON,58532
+25,Doubs,Emmanuel,MACRON,76338
+26,Drôme,Emmanuel,MACRON,72228
+27,Eure,Emmanuel,MACRON,83058
+28,Eure-et-Loir,Emmanuel,MACRON,59869
+29,Finistère,Emmanuel,MACRON,174894
+30,Gard,Emmanuel,MACRON,88278
+31,Haute-Garonne,Emmanuel,MACRON,196712
+32,Gers,Emmanuel,MACRON,28970
+33,Gironde,Emmanuel,MACRON,256179
+34,Hérault,Emmanuel,MACRON,142306
+35,Ille-et-Vilaine,Emmanuel,MACRON,205882
+36,Indre,Emmanuel,MACRON,31498
+37,Indre-et-Loire,Emmanuel,MACRON,101503
+38,Isère,Emmanuel,MACRON,180533
+39,Jura,Emmanuel,MACRON,36139
+40,Landes,Emmanuel,MACRON,69459
+41,Loir-et-Cher,Emmanuel,MACRON,50480
+42,Loire,Emmanuel,MACRON,104003
+43,Haute-Loire,Emmanuel,MACRON,32417
+44,Loire-Atlantique,Emmanuel,MACRON,256609
+45,Loiret,Emmanuel,MACRON,97004
+46,Lot,Emmanuel,MACRON,27311
+47,Lot-et-Garonne,Emmanuel,MACRON,42568
+48,Lozère,Emmanuel,MACRON,10739
+49,Maine-et-Loire,Emmanuel,MACRON,157063
+50,Manche,Emmanuel,MACRON,92642
+51,Marne,Emmanuel,MACRON,78472
+52,Haute-Marne,Emmanuel,MACRON,21886
+53,Mayenne,Emmanuel,MACRON,60755
+54,Meurthe-et-Moselle,Emmanuel,MACRON,95252
+55,Meuse,Emmanuel,MACRON,24539
+56,Morbihan,Emmanuel,MACRON,152740
+57,Moselle,Emmanuel,MACRON,136366
+58,Nièvre,Emmanuel,MACRON,28686
+59,Nord,Emmanuel,MACRON,336138
+60,Oise,Emmanuel,MACRON,100043
+61,Orne,Emmanuel,MACRON,46005
+62,Pas-de-Calais,Emmanuel,MACRON,194610
+63,Puy-de-Dôme,Emmanuel,MACRON,100134
+64,Pyrénées-Atlantiques,Emmanuel,MACRON,111610
+65,Hautes-Pyrénées,Emmanuel,MACRON,33692
+66,Pyrénées-Orientales,Emmanuel,MACRON,55169
+67,Bas-Rhin,Emmanuel,MACRON,177069
+68,Haut-Rhin,Emmanuel,MACRON,107248
+69,Rhône,Emmanuel,MACRON,278243
+70,Haute-Saône,Emmanuel,MACRON,30204
+71,Saône-et-Loire,Emmanuel,MACRON,82633
+72,Sarthe,Emmanuel,MACRON,83876
+73,Savoie,Emmanuel,MACRON,64689
+74,Haute-Savoie,Emmanuel,MACRON,130422
+75,Paris,Emmanuel,MACRON,372820
+76,Seine-Maritime,Emmanuel,MACRON,179698
+77,Seine-et-Marne,Emmanuel,MACRON,165208
+78,Yvelines,Emmanuel,MACRON,246062
+79,Deux-Sèvres,Emmanuel,MACRON,68446
+80,Somme,Emmanuel,MACRON,83107
+81,Tarn,Emmanuel,MACRON,53925
+82,Tarn-et-Garonne,Emmanuel,MACRON,31737
+83,Var,Emmanuel,MACRON,142335
+84,Vaucluse,Emmanuel,MACRON,66885
+85,Vendée,Emmanuel,MACRON,149587
+86,Vienne,Emmanuel,MACRON,67831
+87,Haute-Vienne,Emmanuel,MACRON,54951
+88,Vosges,Emmanuel,MACRON,51432
+89,Yonne,Emmanuel,MACRON,42617
+90,Territoire de Belfort,Emmanuel,MACRON,16768
+91,Essonne,Emmanuel,MACRON,164503
+92,Hauts-de-Seine,Emmanuel,MACRON,287494
+93,Seine-Saint-Denis,Emmanuel,MACRON,110118
+94,Val-de-Marne,Emmanuel,MACRON,171409
+95,Val-d'Oise,Emmanuel,MACRON,138166
+971,Guadeloupe,Emmanuel,MACRON,18137
+972,Martinique,Emmanuel,MACRON,20043
+973,Guyane,Emmanuel,MACRON,5101
+974,La Réunion,Emmanuel,MACRON,62542
+976,Mayotte,Emmanuel,MACRON,5936
+988,Nouvelle-Calédonie,Emmanuel,MACRON,28561
+987,Polynésie française,Emmanuel,MACRON,24106
+975,Saint-Pierre-et-Miquelon,Emmanuel,MACRON,534
+986,Wallis et Futuna,Emmanuel,MACRON,2115
+977_978,Saint-Martin/Saint-Barthélemy,Emmanuel,MACRON,2070
+fr_etranger,Français établis hors de France,Emmanuel,MACRON,224957
+01,Ain,Jean,LASSALLE,10876
+02,Aisne,Jean,LASSALLE,6468
+03,Allier,Jean,LASSALLE,7782
+04,Alpes-de-Haute-Provence,Jean,LASSALLE,4309
+05,Hautes-Alpes,Jean,LASSALLE,3871
+06,Alpes-Maritimes,Jean,LASSALLE,12767
+07,Ardèche,Jean,LASSALLE,9033
+08,Ardennes,Jean,LASSALLE,4084
+09,Ariège,Jean,LASSALLE,7532
+10,Aube,Jean,LASSALLE,3787
+11,Aude,Jean,LASSALLE,12382
+12,Aveyron,Jean,LASSALLE,14825
+13,Bouches-du-Rhône,Jean,LASSALLE,24256
+14,Calvados,Jean,LASSALLE,9816
+15,Cantal,Jean,LASSALLE,6848
+16,Charente,Jean,LASSALLE,8482
+17,Charente-Maritime,Jean,LASSALLE,14335
+18,Cher,Jean,LASSALLE,5495
+19,Corrèze,Jean,LASSALLE,10177
+2A,Corse-du-Sud,Jean,LASSALLE,6729
+2B,Haute-Corse,Jean,LASSALLE,8601
+21,Côte-d'Or,Jean,LASSALLE,8183
+22,Côtes-d'Armor,Jean,LASSALLE,11949
+23,Creuse,Jean,LASSALLE,4275
+24,Dordogne,Jean,LASSALLE,15850
+25,Doubs,Jean,LASSALLE,8688
+26,Drôme,Jean,LASSALLE,9945
+27,Eure,Jean,LASSALLE,7768
+28,Eure-et-Loir,Jean,LASSALLE,5694
+29,Finistère,Jean,LASSALLE,18320
+30,Gard,Jean,LASSALLE,15162
+31,Haute-Garonne,Jean,LASSALLE,35479
+32,Gers,Jean,LASSALLE,11720
+33,Gironde,Jean,LASSALLE,37725
+34,Hérault,Jean,LASSALLE,22068
+35,Ille-et-Vilaine,Jean,LASSALLE,13985
+36,Indre,Jean,LASSALLE,4984
+37,Indre-et-Loire,Jean,LASSALLE,8520
+38,Isère,Jean,LASSALLE,17025
+39,Jura,Jean,LASSALLE,6218
+40,Landes,Jean,LASSALLE,24308
+41,Loir-et-Cher,Jean,LASSALLE,5483
+42,Loire,Jean,LASSALLE,11928
+43,Haute-Loire,Jean,LASSALLE,7817
+44,Loire-Atlantique,Jean,LASSALLE,18298
+45,Loiret,Jean,LASSALLE,8483
+46,Lot,Jean,LASSALLE,8032
+47,Lot-et-Garonne,Jean,LASSALLE,13600
+48,Lozère,Jean,LASSALLE,4722
+49,Maine-et-Loire,Jean,LASSALLE,11036
+50,Manche,Jean,LASSALLE,9421
+51,Marne,Jean,LASSALLE,6921
+52,Haute-Marne,Jean,LASSALLE,3327
+53,Mayenne,Jean,LASSALLE,4673
+54,Meurthe-et-Moselle,Jean,LASSALLE,8739
+55,Meuse,Jean,LASSALLE,3500
+56,Morbihan,Jean,LASSALLE,14399
+57,Moselle,Jean,LASSALLE,14163
+58,Nièvre,Jean,LASSALLE,4106
+59,Nord,Jean,LASSALLE,22459
+60,Oise,Jean,LASSALLE,9179
+61,Orne,Jean,LASSALLE,4895
+62,Pas-de-Calais,Jean,LASSALLE,17010
+63,Puy-de-Dôme,Jean,LASSALLE,16136
+64,Pyrénées-Atlantiques,Jean,LASSALLE,48246
+65,Hautes-Pyrénées,Jean,LASSALLE,14761
+66,Pyrénées-Orientales,Jean,LASSALLE,11690
+67,Bas-Rhin,Jean,LASSALLE,14652
+68,Haut-Rhin,Jean,LASSALLE,11063
+69,Rhône,Jean,LASSALLE,17572
+70,Haute-Saône,Jean,LASSALLE,4820
+71,Saône-et-Loire,Jean,LASSALLE,10186
+72,Sarthe,Jean,LASSALLE,7546
+73,Savoie,Jean,LASSALLE,8081
+74,Haute-Savoie,Jean,LASSALLE,13371
+75,Paris,Jean,LASSALLE,12139
+76,Seine-Maritime,Jean,LASSALLE,13588
+77,Seine-et-Marne,Jean,LASSALLE,13797
+78,Yvelines,Jean,LASSALLE,13687
+79,Deux-Sèvres,Jean,LASSALLE,7014
+80,Somme,Jean,LASSALLE,7371
+81,Tarn,Jean,LASSALLE,17010
+82,Tarn-et-Garonne,Jean,LASSALLE,9573
+83,Var,Jean,LASSALLE,17784
+84,Vaucluse,Jean,LASSALLE,9843
+85,Vendée,Jean,LASSALLE,13039
+86,Vienne,Jean,LASSALLE,7741
+87,Haute-Vienne,Jean,LASSALLE,9973
+88,Vosges,Jean,LASSALLE,7203
+89,Yonne,Jean,LASSALLE,5356
+90,Territoire de Belfort,Jean,LASSALLE,2000
+91,Essonne,Jean,LASSALLE,11610
+92,Hauts-de-Seine,Jean,LASSALLE,11260
+93,Seine-Saint-Denis,Jean,LASSALLE,6805
+94,Val-de-Marne,Jean,LASSALLE,8944
+95,Val-d'Oise,Jean,LASSALLE,9101
+971,Guadeloupe,Jean,LASSALLE,1033
+972,Martinique,Jean,LASSALLE,1162
+973,Guyane,Jean,LASSALLE,516
+974,La Réunion,Jean,LASSALLE,4844
+976,Mayotte,Jean,LASSALLE,359
+988,Nouvelle-Calédonie,Jean,LASSALLE,1031
+987,Polynésie française,Jean,LASSALLE,610
+975,Saint-Pierre-et-Miquelon,Jean,LASSALLE,108
+986,Wallis et Futuna,Jean,LASSALLE,78
+977_978,Saint-Martin/Saint-Barthélemy,Jean,LASSALLE,208
+fr_etranger,Français établis hors de France,Jean,LASSALLE,5964
+01,Ain,Marine,LE PEN,86755
+02,Aisne,Marine,LE PEN,104342
+03,Allier,Marine,LE PEN,50315
+04,Alpes-de-Haute-Provence,Marine,LE PEN,26010
+05,Hautes-Alpes,Marine,LE PEN,19696
+06,Alpes-Maritimes,Marine,LE PEN,148919
+07,Ardèche,Marine,LE PEN,49594
+08,Ardennes,Marine,LE PEN,48242
+09,Ariège,Marine,LE PEN,21958
+10,Aube,Marine,LE PEN,49316
+11,Aude,Marine,LE PEN,64027
+12,Aveyron,Marine,LE PEN,34357
+13,Bouches-du-Rhône,Marine,LE PEN,264753
+14,Calvados,Marine,LE PEN,91774
+15,Cantal,Marine,LE PEN,21570
+16,Charente,Marine,LE PEN,50432
+17,Charente-Maritime,Marine,LE PEN,99790
+18,Cher,Marine,LE PEN,44772
+19,Corrèze,Marine,LE PEN,31658
+2A,Corse-du-Sud,Marine,LE PEN,20139
+2B,Haute-Corse,Marine,LE PEN,21998
+21,Côte-d'Or,Marine,LE PEN,69110
+22,Côtes-d'Armor,Marine,LE PEN,79850
+23,Creuse,Marine,LE PEN,16772
+24,Dordogne,Marine,LE PEN,63327
+25,Doubs,Marine,LE PEN,66703
+26,Drôme,Marine,LE PEN,70574
+27,Eure,Marine,LE PEN,102952
+28,Eure-et-Loir,Marine,LE PEN,61960
+29,Finistère,Marine,LE PEN,100890
+30,Gard,Marine,LE PEN,121480
+31,Haute-Garonne,Marine,LE PEN,133254
+32,Gers,Marine,LE PEN,26015
+33,Gironde,Marine,LE PEN,191542
+34,Hérault,Marine,LE PEN,165734
+35,Ille-et-Vilaine,Marine,LE PEN,101797
+36,Indre,Marine,LE PEN,34516
+37,Indre-et-Loire,Marine,LE PEN,70553
+38,Isère,Marine,LE PEN,154799
+39,Jura,Marine,LE PEN,38179
+40,Landes,Marine,LE PEN,58646
+41,Loir-et-Cher,Marine,LE PEN,50212
+42,Loire,Marine,LE PEN,97764
+43,Haute-Loire,Marine,LE PEN,38629
+44,Loire-Atlantique,Marine,LE PEN,135702
+45,Loiret,Marine,LE PEN,85832
+46,Lot,Marine,LE PEN,21422
+47,Lot-et-Garonne,Marine,LE PEN,50290
+48,Lozère,Marine,LE PEN,10497
+49,Maine-et-Loire,Marine,LE PEN,89433
+50,Manche,Marine,LE PEN,69770
+51,Marne,Marine,LE PEN,83756
+52,Haute-Marne,Marine,LE PEN,34331
+53,Mayenne,Marine,LE PEN,37376
+54,Meurthe-et-Moselle,Marine,LE PEN,97243
+55,Meuse,Marine,LE PEN,34588
+56,Morbihan,Marine,LE PEN,102856
+57,Moselle,Marine,LE PEN,159254
+58,Nièvre,Marine,LE PEN,32838
+59,Nord,Marine,LE PEN,373127
+60,Oise,Marine,LE PEN,132873
+61,Orne,Marine,LE PEN,41804
+62,Pas-de-Calais,Marine,LE PEN,305816
+63,Puy-de-Dôme,Marine,LE PEN,78182
+64,Pyrénées-Atlantiques,Marine,LE PEN,69768
+65,Hautes-Pyrénées,Marine,LE PEN,29938
+66,Pyrénées-Orientales,Marine,LE PEN,87930
+67,Bas-Rhin,Marine,LE PEN,145883
+68,Haut-Rhin,Marine,LE PEN,106937
+69,Rhône,Marine,LE PEN,150463
+70,Haute-Saône,Marine,LE PEN,46618
+71,Saône-et-Loire,Marine,LE PEN,81970
+72,Sarthe,Marine,LE PEN,82234
+73,Savoie,Marine,LE PEN,56733
+74,Haute-Savoie,Marine,LE PEN,87744
+75,Paris,Marine,LE PEN,58429
+76,Seine-Maritime,Marine,LE PEN,177806
+77,Seine-et-Marne,Marine,LE PEN,155738
+78,Yvelines,Marine,LE PEN,101398
+79,Deux-Sèvres,Marine,LE PEN,47903
+80,Somme,Marine,LE PEN,98024
+81,Tarn,Marine,LE PEN,56543
+82,Tarn-et-Garonne,Marine,LE PEN,42183
+83,Var,Marine,LE PEN,183287
+84,Vaucluse,Marine,LE PEN,89413
+85,Vendée,Marine,LE PEN,97280
+86,Vienne,Marine,LE PEN,54214
+87,Haute-Vienne,Marine,LE PEN,45357
+88,Vosges,Marine,LE PEN,65646
+89,Yonne,Marine,LE PEN,55164
+90,Territoire de Belfort,Marine,LE PEN,19061
+91,Essonne,Marine,LE PEN,105862
+92,Hauts-de-Seine,Marine,LE PEN,64812
+93,Seine-Saint-Denis,Marine,LE PEN,64543
+94,Val-de-Marne,Marine,LE PEN,69599
+95,Val-d'Oise,Marine,LE PEN,91081
+971,Guadeloupe,Marine,LE PEN,24204
+972,Martinique,Marine,LE PEN,16495
+973,Guyane,Marine,LE PEN,6334
+974,La Réunion,Marine,LE PEN,85770
+976,Mayotte,Marine,LE PEN,14958
+988,Nouvelle-Calédonie,Marine,LE PEN,13273
+987,Polynésie française,Marine,LE PEN,11705
+975,Saint-Pierre-et-Miquelon,Marine,LE PEN,459
+986,Wallis et Futuna,Marine,LE PEN,579
+977_978,Saint-Martin/Saint-Barthélemy,Marine,LE PEN,1445
+fr_etranger,Français établis hors de France,Marine,LE PEN,26380
+01,Ain,Éric,ZEMMOUR,27530
+02,Aisne,Éric,ZEMMOUR,18266
+03,Allier,Éric,ZEMMOUR,12361
+04,Alpes-de-Haute-Provence,Éric,ZEMMOUR,7926
+05,Hautes-Alpes,Éric,ZEMMOUR,6164
+06,Alpes-Maritimes,Éric,ZEMMOUR,78208
+07,Ardèche,Éric,ZEMMOUR,14199
+08,Ardennes,Éric,ZEMMOUR,8771
+09,Ariège,Éric,ZEMMOUR,5821
+10,Aube,Éric,ZEMMOUR,11374
+11,Aude,Éric,ZEMMOUR,18434
+12,Aveyron,Éric,ZEMMOUR,10112
+13,Bouches-du-Rhône,Éric,ZEMMOUR,108617
+14,Calvados,Éric,ZEMMOUR,22255
+15,Cantal,Éric,ZEMMOUR,4906
+16,Charente,Éric,ZEMMOUR,10617
+17,Charente-Maritime,Éric,ZEMMOUR,24347
+18,Cher,Éric,ZEMMOUR,10822
+19,Corrèze,Éric,ZEMMOUR,8012
+2A,Corse-du-Sud,Éric,ZEMMOUR,9199
+2B,Haute-Corse,Éric,ZEMMOUR,9657
+21,Côte-d'Or,Éric,ZEMMOUR,21651
+22,Côtes-d'Armor,Éric,ZEMMOUR,17319
+23,Creuse,Éric,ZEMMOUR,3501
+24,Dordogne,Éric,ZEMMOUR,15800
+25,Doubs,Éric,ZEMMOUR,19486
+26,Drôme,Éric,ZEMMOUR,22010
+27,Eure,Éric,ZEMMOUR,20930
+28,Eure-et-Loir,Éric,ZEMMOUR,14803
+29,Finistère,Éric,ZEMMOUR,25607
+30,Gard,Éric,ZEMMOUR,38479
+31,Haute-Garonne,Éric,ZEMMOUR,50613
+32,Gers,Éric,ZEMMOUR,8396
+33,Gironde,Éric,ZEMMOUR,58321
+34,Hérault,Éric,ZEMMOUR,57751
+35,Ille-et-Vilaine,Éric,ZEMMOUR,27463
+36,Indre,Éric,ZEMMOUR,7438
+37,Indre-et-Loire,Éric,ZEMMOUR,19931
+38,Isère,Éric,ZEMMOUR,47450
+39,Jura,Éric,ZEMMOUR,9657
+40,Landes,Éric,ZEMMOUR,16817
+41,Loir-et-Cher,Éric,ZEMMOUR,12703
+42,Loire,Éric,ZEMMOUR,28706
+43,Haute-Loire,Éric,ZEMMOUR,9529
+44,Loire-Atlantique,Éric,ZEMMOUR,42761
+45,Loiret,Éric,ZEMMOUR,22878
+46,Lot,Éric,ZEMMOUR,6123
+47,Lot-et-Garonne,Éric,ZEMMOUR,15646
+48,Lozère,Éric,ZEMMOUR,3148
+49,Maine-et-Loire,Éric,ZEMMOUR,21704
+50,Manche,Éric,ZEMMOUR,13990
+51,Marne,Éric,ZEMMOUR,19501
+52,Haute-Marne,Éric,ZEMMOUR,6450
+53,Mayenne,Éric,ZEMMOUR,8042
+54,Meurthe-et-Moselle,Éric,ZEMMOUR,23518
+55,Meuse,Éric,ZEMMOUR,7347
+56,Morbihan,Éric,ZEMMOUR,26595
+57,Moselle,Éric,ZEMMOUR,39369
+58,Nièvre,Éric,ZEMMOUR,7378
+59,Nord,Éric,ZEMMOUR,73168
+60,Oise,Éric,ZEMMOUR,30333
+61,Orne,Éric,ZEMMOUR,8910
+62,Pas-de-Calais,Éric,ZEMMOUR,40764
+63,Puy-de-Dôme,Éric,ZEMMOUR,20624
+64,Pyrénées-Atlantiques,Éric,ZEMMOUR,25877
+65,Hautes-Pyrénées,Éric,ZEMMOUR,8714
+66,Pyrénées-Orientales,Éric,ZEMMOUR,24782
+67,Bas-Rhin,Éric,ZEMMOUR,40458
+68,Haut-Rhin,Éric,ZEMMOUR,30284
+69,Rhône,Éric,ZEMMOUR,74168
+70,Haute-Saône,Éric,ZEMMOUR,9675
+71,Saône-et-Loire,Éric,ZEMMOUR,20686
+72,Sarthe,Éric,ZEMMOUR,16218
+73,Savoie,Éric,ZEMMOUR,18045
+74,Haute-Savoie,Éric,ZEMMOUR,33353
+75,Paris,Éric,ZEMMOUR,86088
+76,Seine-Maritime,Éric,ZEMMOUR,33361
+77,Seine-et-Marne,Éric,ZEMMOUR,47893
+78,Yvelines,Éric,ZEMMOUR,64407
+79,Deux-Sèvres,Éric,ZEMMOUR,8803
+80,Somme,Éric,ZEMMOUR,16885
+81,Tarn,Éric,ZEMMOUR,15982
+82,Tarn-et-Garonne,Éric,ZEMMOUR,11772
+83,Var,Éric,ZEMMOUR,79329
+84,Vaucluse,Éric,ZEMMOUR,30473
+85,Vendée,Éric,ZEMMOUR,25663
+86,Vienne,Éric,ZEMMOUR,11939
+87,Haute-Vienne,Éric,ZEMMOUR,10796
+88,Vosges,Éric,ZEMMOUR,13184
+89,Yonne,Éric,ZEMMOUR,12941
+90,Territoire de Belfort,Éric,ZEMMOUR,5583
+91,Essonne,Éric,ZEMMOUR,39284
+92,Hauts-de-Seine,Éric,ZEMMOUR,62761
+93,Seine-Saint-Denis,Éric,ZEMMOUR,27969
+94,Val-de-Marne,Éric,ZEMMOUR,43430
+95,Val-d'Oise,Éric,ZEMMOUR,37564
+971,Guadeloupe,Éric,ZEMMOUR,3098
+972,Martinique,Éric,ZEMMOUR,3153
+973,Guyane,Éric,ZEMMOUR,1573
+974,La Réunion,Éric,ZEMMOUR,13070
+976,Mayotte,Éric,ZEMMOUR,482
+988,Nouvelle-Calédonie,Éric,ZEMMOUR,6435
+987,Polynésie française,Éric,ZEMMOUR,4283
+975,Saint-Pierre-et-Miquelon,Éric,ZEMMOUR,80
+986,Wallis et Futuna,Éric,ZEMMOUR,118
+977_978,Saint-Martin/Saint-Barthélemy,Éric,ZEMMOUR,1107
+fr_etranger,Français établis hors de France,Éric,ZEMMOUR,43252
+01,Ain,Jean-Luc,MÉLENCHON,57832
+02,Aisne,Jean-Luc,MÉLENCHON,41172
+03,Allier,Jean-Luc,MÉLENCHON,31013
+04,Alpes-de-Haute-Provence,Jean-Luc,MÉLENCHON,21856
+05,Hautes-Alpes,Jean-Luc,MÉLENCHON,19718
+06,Alpes-Maritimes,Jean-Luc,MÉLENCHON,92345
+07,Ardèche,Jean-Luc,MÉLENCHON,42837
+08,Ardennes,Jean-Luc,MÉLENCHON,22281
+09,Ariège,Jean-Luc,MÉLENCHON,23908
+10,Aube,Jean-Luc,MÉLENCHON,22483
+11,Aude,Jean-Luc,MÉLENCHON,42039
+12,Aveyron,Jean-Luc,MÉLENCHON,32734
+13,Bouches-du-Rhône,Jean-Luc,MÉLENCHON,237971
+14,Calvados,Jean-Luc,MÉLENCHON,73950
+15,Cantal,Jean-Luc,MÉLENCHON,12944
+16,Charente,Jean-Luc,MÉLENCHON,37305
+17,Charente-Maritime,Jean-Luc,MÉLENCHON,71633
+18,Cher,Jean-Luc,MÉLENCHON,27901
+19,Corrèze,Jean-Luc,MÉLENCHON,27731
+2A,Corse-du-Sud,Jean-Luc,MÉLENCHON,9330
+2B,Haute-Corse,Jean-Luc,MÉLENCHON,10368
+21,Côte-d'Or,Jean-Luc,MÉLENCHON,53875
+22,Côtes-d'Armor,Jean-Luc,MÉLENCHON,74226
+23,Creuse,Jean-Luc,MÉLENCHON,13679
+24,Dordogne,Jean-Luc,MÉLENCHON,50054
+25,Doubs,Jean-Luc,MÉLENCHON,55587
+26,Drôme,Jean-Luc,MÉLENCHON,65258
+27,Eure,Jean-Luc,MÉLENCHON,55571
+28,Eure-et-Loir,Jean-Luc,MÉLENCHON,40529
+29,Finistère,Jean-Luc,MÉLENCHON,116591
+30,Gard,Jean-Luc,MÉLENCHON,88827
+31,Haute-Garonne,Jean-Luc,MÉLENCHON,188867
+32,Gers,Jean-Luc,MÉLENCHON,21353
+33,Gironde,Jean-Luc,MÉLENCHON,194775
+34,Hérault,Jean-Luc,MÉLENCHON,154819
+35,Ille-et-Vilaine,Jean-Luc,MÉLENCHON,132510
+36,Indre,Jean-Luc,MÉLENCHON,20954
+37,Indre-et-Loire,Jean-Luc,MÉLENCHON,68012
+38,Isère,Jean-Luc,MÉLENCHON,153474
+39,Jura,Jean-Luc,MÉLENCHON,28882
+40,Landes,Jean-Luc,MÉLENCHON,44548
+41,Loir-et-Cher,Jean-Luc,MÉLENCHON,30377
+42,Loire,Jean-Luc,MÉLENCHON,78169
+43,Haute-Loire,Jean-Luc,MÉLENCHON,24332
+44,Loire-Atlantique,Jean-Luc,MÉLENCHON,187977
+45,Loiret,Jean-Luc,MÉLENCHON,63486
+46,Lot,Jean-Luc,MÉLENCHON,25932
+47,Lot-et-Garonne,Jean-Luc,MÉLENCHON,34044
+48,Lozère,Jean-Luc,MÉLENCHON,9153
+49,Maine-et-Loire,Jean-Luc,MÉLENCHON,80616
+50,Manche,Jean-Luc,MÉLENCHON,46940
+51,Marne,Jean-Luc,MÉLENCHON,42858
+52,Haute-Marne,Jean-Luc,MÉLENCHON,13228
+53,Mayenne,Jean-Luc,MÉLENCHON,25608
+54,Meurthe-et-Moselle,Jean-Luc,MÉLENCHON,73892
+55,Meuse,Jean-Luc,MÉLENCHON,13559
+56,Morbihan,Jean-Luc,MÉLENCHON,84200
+57,Moselle,Jean-Luc,MÉLENCHON,100159
+58,Nièvre,Jean-Luc,MÉLENCHON,19930
+59,Nord,Jean-Luc,MÉLENCHON,279785
+60,Oise,Jean-Luc,MÉLENCHON,79446
+61,Orne,Jean-Luc,MÉLENCHON,22993
+62,Pas-de-Calais,Jean-Luc,MÉLENCHON,124741
+63,Puy-de-Dôme,Jean-Luc,MÉLENCHON,74534
+64,Pyrénées-Atlantiques,Jean-Luc,MÉLENCHON,76030
+65,Hautes-Pyrénées,Jean-Luc,MÉLENCHON,26449
+66,Pyrénées-Orientales,Jean-Luc,MÉLENCHON,51556
+67,Bas-Rhin,Jean-Luc,MÉLENCHON,105055
+68,Haut-Rhin,Jean-Luc,MÉLENCHON,66238
+69,Rhône,Jean-Luc,MÉLENCHON,229036
+70,Haute-Saône,Jean-Luc,MÉLENCHON,21089
+71,Saône-et-Loire,Jean-Luc,MÉLENCHON,52336
+72,Sarthe,Jean-Luc,MÉLENCHON,54244
+73,Savoie,Jean-Luc,MÉLENCHON,49858
+74,Haute-Savoie,Jean-Luc,MÉLENCHON,78062
+75,Paris,Jean-Luc,MÉLENCHON,317372
+76,Seine-Maritime,Jean-Luc,MÉLENCHON,136136
+77,Seine-et-Marne,Jean-Luc,MÉLENCHON,170969
+78,Yvelines,Jean-Luc,MÉLENCHON,168585
+79,Deux-Sèvres,Jean-Luc,MÉLENCHON,39120
+80,Somme,Jean-Luc,MÉLENCHON,52343
+81,Tarn,Jean-Luc,MÉLENCHON,48430
+82,Tarn-et-Garonne,Jean-Luc,MÉLENCHON,27881
+83,Var,Jean-Luc,MÉLENCHON,89272
+84,Vaucluse,Jean-Luc,MÉLENCHON,63049
+85,Vendée,Jean-Luc,MÉLENCHON,60524
+86,Vienne,Jean-Luc,MÉLENCHON,49162
+87,Haute-Vienne,Jean-Luc,MÉLENCHON,43137
+88,Vosges,Jean-Luc,MÉLENCHON,32655
+89,Yonne,Jean-Luc,MÉLENCHON,31601
+90,Territoire de Belfort,Jean-Luc,MÉLENCHON,14601
+91,Essonne,Jean-Luc,MÉLENCHON,167310
+92,Hauts-de-Seine,Jean-Luc,MÉLENCHON,199640
+93,Seine-Saint-Denis,Jean-Luc,MÉLENCHON,266632
+94,Val-de-Marne,Jean-Luc,MÉLENCHON,192427
+95,Val-d'Oise,Jean-Luc,MÉLENCHON,175666
+971,Guadeloupe,Jean-Luc,MÉLENCHON,75862
+972,Martinique,Jean-Luc,MÉLENCHON,65292
+973,Guyane,Jean-Luc,MÉLENCHON,18143
+974,La Réunion,Jean-Luc,MÉLENCHON,139604
+976,Mayotte,Jean-Luc,MÉLENCHON,8398
+988,Nouvelle-Calédonie,Jean-Luc,MÉLENCHON,9711
+987,Polynésie française,Jean-Luc,MÉLENCHON,7990
+975,Saint-Pierre-et-Miquelon,Jean-Luc,MÉLENCHON,1105
+986,Wallis et Futuna,Jean-Luc,MÉLENCHON,501
+977_978,Saint-Martin/Saint-Barthélemy,Jean-Luc,MÉLENCHON,2354
+fr_etranger,Français établis hors de France,Jean-Luc,MÉLENCHON,109394
+01,Ain,Anne,HIDALGO,5644
+02,Aisne,Anne,HIDALGO,2983
+03,Allier,Anne,HIDALGO,3280
+04,Alpes-de-Haute-Provence,Anne,HIDALGO,1396
+05,Hautes-Alpes,Anne,HIDALGO,1459
+06,Alpes-Maritimes,Anne,HIDALGO,5414
+07,Ardèche,Anne,HIDALGO,4189
+08,Ardennes,Anne,HIDALGO,1741
+09,Ariège,Anne,HIDALGO,3208
+10,Aube,Anne,HIDALGO,1720
+11,Aude,Anne,HIDALGO,6166
+12,Aveyron,Anne,HIDALGO,4470
+13,Bouches-du-Rhône,Anne,HIDALGO,11760
+14,Calvados,Anne,HIDALGO,6848
+15,Cantal,Anne,HIDALGO,1810
+16,Charente,Anne,HIDALGO,4003
+17,Charente-Maritime,Anne,HIDALGO,6857
+18,Cher,Anne,HIDALGO,2585
+19,Corrèze,Anne,HIDALGO,3605
+2A,Corse-du-Sud,Anne,HIDALGO,624
+2B,Haute-Corse,Anne,HIDALGO,959
+21,Côte-d'Or,Anne,HIDALGO,5126
+22,Côtes-d'Armor,Anne,HIDALGO,8279
+23,Creuse,Anne,HIDALGO,1641
+24,Dordogne,Anne,HIDALGO,5362
+25,Doubs,Anne,HIDALGO,4902
+26,Drôme,Anne,HIDALGO,5311
+27,Eure,Anne,HIDALGO,4027
+28,Eure-et-Loir,Anne,HIDALGO,3076
+29,Finistère,Anne,HIDALGO,13077
+30,Gard,Anne,HIDALGO,6585
+31,Haute-Garonne,Anne,HIDALGO,19658
+32,Gers,Anne,HIDALGO,3861
+33,Gironde,Anne,HIDALGO,19598
+34,Hérault,Anne,HIDALGO,12150
+35,Ille-et-Vilaine,Anne,HIDALGO,13973
+36,Indre,Anne,HIDALGO,2464
+37,Indre-et-Loire,Anne,HIDALGO,6216
+38,Isère,Anne,HIDALGO,12736
+39,Jura,Anne,HIDALGO,2635
+40,Landes,Anne,HIDALGO,9071
+41,Loir-et-Cher,Anne,HIDALGO,3165
+42,Loire,Anne,HIDALGO,6970
+43,Haute-Loire,Anne,HIDALGO,2491
+44,Loire-Atlantique,Anne,HIDALGO,18369
+45,Loiret,Anne,HIDALGO,5656
+46,Lot,Anne,HIDALGO,2766
+47,Lot-et-Garonne,Anne,HIDALGO,3357
+48,Lozère,Anne,HIDALGO,1045
+49,Maine-et-Loire,Anne,HIDALGO,8801
+50,Manche,Anne,HIDALGO,5853
+51,Marne,Anne,HIDALGO,3542
+52,Haute-Marne,Anne,HIDALGO,1305
+53,Mayenne,Anne,HIDALGO,3468
+54,Meurthe-et-Moselle,Anne,HIDALGO,6362
+55,Meuse,Anne,HIDALGO,1483
+56,Morbihan,Anne,HIDALGO,8267
+57,Moselle,Anne,HIDALGO,7534
+58,Nièvre,Anne,HIDALGO,2160
+59,Nord,Anne,HIDALGO,18215
+60,Oise,Anne,HIDALGO,4251
+61,Orne,Anne,HIDALGO,2368
+62,Pas-de-Calais,Anne,HIDALGO,11619
+63,Puy-de-Dôme,Anne,HIDALGO,8216
+64,Pyrénées-Atlantiques,Anne,HIDALGO,9276
+65,Hautes-Pyrénées,Anne,HIDALGO,3315
+66,Pyrénées-Orientales,Anne,HIDALGO,5013
+67,Bas-Rhin,Anne,HIDALGO,8348
+68,Haut-Rhin,Anne,HIDALGO,4881
+69,Rhône,Anne,HIDALGO,15895
+70,Haute-Saône,Anne,HIDALGO,2345
+71,Saône-et-Loire,Anne,HIDALGO,6037
+72,Sarthe,Anne,HIDALGO,5409
+73,Savoie,Anne,HIDALGO,4418
+74,Haute-Savoie,Anne,HIDALGO,6606
+75,Paris,Anne,HIDALGO,22901
+76,Seine-Maritime,Anne,HIDALGO,11139
+77,Seine-et-Marne,Anne,HIDALGO,7853
+78,Yvelines,Anne,HIDALGO,9046
+79,Deux-Sèvres,Anne,HIDALGO,4340
+80,Somme,Anne,HIDALGO,3746
+81,Tarn,Anne,HIDALGO,5818
+82,Tarn-et-Garonne,Anne,HIDALGO,3069
+83,Var,Anne,HIDALGO,5703
+84,Vaucluse,Anne,HIDALGO,3769
+85,Vendée,Anne,HIDALGO,7244
+86,Vienne,Anne,HIDALGO,4542
+87,Haute-Vienne,Anne,HIDALGO,5654
+88,Vosges,Anne,HIDALGO,3114
+89,Yonne,Anne,HIDALGO,2286
+90,Territoire de Belfort,Anne,HIDALGO,1052
+91,Essonne,Anne,HIDALGO,7944
+92,Hauts-de-Seine,Anne,HIDALGO,10518
+93,Seine-Saint-Denis,Anne,HIDALGO,5890
+94,Val-de-Marne,Anne,HIDALGO,8276
+95,Val-d'Oise,Anne,HIDALGO,6094
+971,Guadeloupe,Anne,HIDALGO,2266
+972,Martinique,Anne,HIDALGO,3935
+973,Guyane,Anne,HIDALGO,535
+974,La Réunion,Anne,HIDALGO,5549
+976,Mayotte,Anne,HIDALGO,318
+988,Nouvelle-Calédonie,Anne,HIDALGO,963
+987,Polynésie française,Anne,HIDALGO,865
+975,Saint-Pierre-et-Miquelon,Anne,HIDALGO,75
+986,Wallis et Futuna,Anne,HIDALGO,118
+977_978,Saint-Martin/Saint-Barthélemy,Anne,HIDALGO,92
+fr_etranger,Français établis hors de France,Anne,HIDALGO,12489
+01,Ain,Yannick,JADOT,15843
+02,Aisne,Yannick,JADOT,7074
+03,Allier,Yannick,JADOT,5982
+04,Alpes-de-Haute-Provence,Yannick,JADOT,3957
+05,Hautes-Alpes,Yannick,JADOT,5013
+06,Alpes-Maritimes,Yannick,JADOT,23374
+07,Ardèche,Yannick,JADOT,8544
+08,Ardennes,Yannick,JADOT,3446
+09,Ariège,Yannick,JADOT,3020
+10,Aube,Yannick,JADOT,4619
+11,Aude,Yannick,JADOT,6322
+12,Aveyron,Yannick,JADOT,6746
+13,Bouches-du-Rhône,Yannick,JADOT,42109
+14,Calvados,Yannick,JADOT,19621
+15,Cantal,Yannick,JADOT,2751
+16,Charente,Yannick,JADOT,7557
+17,Charente-Maritime,Yannick,JADOT,19012
+18,Cher,Yannick,JADOT,5028
+19,Corrèze,Yannick,JADOT,5040
+2A,Corse-du-Sud,Yannick,JADOT,2266
+2B,Haute-Corse,Yannick,JADOT,2520
+21,Côte-d'Or,Yannick,JADOT,13462
+22,Côtes-d'Armor,Yannick,JADOT,19349
+23,Creuse,Yannick,JADOT,1906
+24,Dordogne,Yannick,JADOT,8563
+25,Doubs,Yannick,JADOT,13096
+26,Drôme,Yannick,JADOT,14234
+27,Eure,Yannick,JADOT,11477
+28,Eure-et-Loir,Yannick,JADOT,7904
+29,Finistère,Yannick,JADOT,33200
+30,Gard,Yannick,JADOT,14974
+31,Haute-Garonne,Yannick,JADOT,42599
+32,Gers,Yannick,JADOT,4090
+33,Gironde,Yannick,JADOT,46677
+34,Hérault,Yannick,JADOT,28057
+35,Ille-et-Vilaine,Yannick,JADOT,42613
+36,Indre,Yannick,JADOT,3726
+37,Indre-et-Loire,Yannick,JADOT,16245
+38,Isère,Yannick,JADOT,40378
+39,Jura,Yannick,JADOT,6388
+40,Landes,Yannick,JADOT,8628
+41,Loir-et-Cher,Yannick,JADOT,7097
+42,Loire,Yannick,JADOT,16656
+43,Haute-Loire,Yannick,JADOT,5796
+44,Loire-Atlantique,Yannick,JADOT,60072
+45,Loiret,Yannick,JADOT,14401
+46,Lot,Yannick,JADOT,4603
+47,Lot-et-Garonne,Yannick,JADOT,5686
+48,Lozère,Yannick,JADOT,1736
+49,Maine-et-Loire,Yannick,JADOT,26635
+50,Manche,Yannick,JADOT,11873
+51,Marne,Yannick,JADOT,9561
+52,Haute-Marne,Yannick,JADOT,2580
+53,Mayenne,Yannick,JADOT,7934
+54,Meurthe-et-Moselle,Yannick,JADOT,14588
+55,Meuse,Yannick,JADOT,3130
+56,Morbihan,Yannick,JADOT,27036
+57,Moselle,Yannick,JADOT,18931
+58,Nièvre,Yannick,JADOT,3552
+59,Nord,Yannick,JADOT,46962
+60,Oise,Yannick,JADOT,13785
+61,Orne,Yannick,JADOT,5513
+62,Pas-de-Calais,Yannick,JADOT,19295
+63,Puy-de-Dôme,Yannick,JADOT,17029
+64,Pyrénées-Atlantiques,Yannick,JADOT,19967
+65,Hautes-Pyrénées,Yannick,JADOT,4872
+66,Pyrénées-Orientales,Yannick,JADOT,8588
+67,Bas-Rhin,Yannick,JADOT,28573
+68,Haut-Rhin,Yannick,JADOT,18963
+69,Rhône,Yannick,JADOT,51907
+70,Haute-Saône,Yannick,JADOT,4292
+71,Saône-et-Loire,Yannick,JADOT,10730
+72,Sarthe,Yannick,JADOT,13541
+73,Savoie,Yannick,JADOT,15642
+74,Haute-Savoie,Yannick,JADOT,29948
+75,Paris,Yannick,JADOT,80268
+76,Seine-Maritime,Yannick,JADOT,24785
+77,Seine-et-Marne,Yannick,JADOT,26718
+78,Yvelines,Yannick,JADOT,40470
+79,Deux-Sèvres,Yannick,JADOT,10074
+80,Somme,Yannick,JADOT,8048
+81,Tarn,Yannick,JADOT,8680
+82,Tarn-et-Garonne,Yannick,JADOT,4835
+83,Var,Yannick,JADOT,21044
+84,Vaucluse,Yannick,JADOT,12128
+85,Vendée,Yannick,JADOT,19753
+86,Vienne,Yannick,JADOT,10727
+87,Haute-Vienne,Yannick,JADOT,7877
+88,Vosges,Yannick,JADOT,7562
+89,Yonne,Yannick,JADOT,5917
+90,Territoire de Belfort,Yannick,JADOT,2798
+91,Essonne,Yannick,JADOT,29562
+92,Hauts-de-Seine,Yannick,JADOT,47103
+93,Seine-Saint-Denis,Yannick,JADOT,19352
+94,Val-de-Marne,Yannick,JADOT,31904
+95,Val-d'Oise,Yannick,JADOT,20710
+971,Guadeloupe,Yannick,JADOT,1927
+972,Martinique,Yannick,JADOT,1978
+973,Guyane,Yannick,JADOT,940
+974,La Réunion,Yannick,JADOT,7994
+976,Mayotte,Yannick,JADOT,295
+988,Nouvelle-Calédonie,Yannick,JADOT,2161
+987,Polynésie française,Yannick,JADOT,2150
+975,Saint-Pierre-et-Miquelon,Yannick,JADOT,116
+986,Wallis et Futuna,Yannick,JADOT,72
+977_978,Saint-Martin/Saint-Barthélemy,Yannick,JADOT,247
+fr_etranger,Français établis hors de France,Yannick,JADOT,40774
+01,Ain,Valérie,PÉCRESSE,17572
+02,Aisne,Valérie,PÉCRESSE,10920
+03,Allier,Valérie,PÉCRESSE,10319
+04,Alpes-de-Haute-Provence,Valérie,PÉCRESSE,3834
+05,Hautes-Alpes,Valérie,PÉCRESSE,4511
+06,Alpes-Maritimes,Valérie,PÉCRESSE,31260
+07,Ardèche,Valérie,PÉCRESSE,9553
+08,Ardennes,Valérie,PÉCRESSE,5556
+09,Ariège,Valérie,PÉCRESSE,2724
+10,Aube,Valérie,PÉCRESSE,8923
+11,Aude,Valérie,PÉCRESSE,7350
+12,Aveyron,Valérie,PÉCRESSE,9988
+13,Bouches-du-Rhône,Valérie,PÉCRESSE,36229
+14,Calvados,Valérie,PÉCRESSE,18383
+15,Cantal,Valérie,PÉCRESSE,6987
+16,Charente,Valérie,PÉCRESSE,8343
+17,Charente-Maritime,Valérie,PÉCRESSE,19316
+18,Cher,Valérie,PÉCRESSE,8147
+19,Corrèze,Valérie,PÉCRESSE,12278
+2A,Corse-du-Sud,Valérie,PÉCRESSE,3772
+2B,Haute-Corse,Valérie,PÉCRESSE,5555
+21,Côte-d'Or,Valérie,PÉCRESSE,14344
+22,Côtes-d'Armor,Valérie,PÉCRESSE,17235
+23,Creuse,Valérie,PÉCRESSE,4391
+24,Dordogne,Valérie,PÉCRESSE,11280
+25,Doubs,Valérie,PÉCRESSE,15107
+26,Drôme,Valérie,PÉCRESSE,13204
+27,Eure,Valérie,PÉCRESSE,13552
+28,Eure-et-Loir,Valérie,PÉCRESSE,13003
+29,Finistère,Valérie,PÉCRESSE,26541
+30,Gard,Valérie,PÉCRESSE,15460
+31,Haute-Garonne,Valérie,PÉCRESSE,27153
+32,Gers,Valérie,PÉCRESSE,5126
+33,Gironde,Valérie,PÉCRESSE,37575
+34,Hérault,Valérie,PÉCRESSE,23230
+35,Ille-et-Vilaine,Valérie,PÉCRESSE,26194
+36,Indre,Valérie,PÉCRESSE,6589
+37,Indre-et-Loire,Valérie,PÉCRESSE,16279
+38,Isère,Valérie,PÉCRESSE,28575
+39,Jura,Valérie,PÉCRESSE,7424
+40,Landes,Valérie,PÉCRESSE,10393
+41,Loir-et-Cher,Valérie,PÉCRESSE,9586
+42,Loire,Valérie,PÉCRESSE,18539
+43,Haute-Loire,Valérie,PÉCRESSE,9560
+44,Loire-Atlantique,Valérie,PÉCRESSE,37541
+45,Loiret,Valérie,PÉCRESSE,18086
+46,Lot,Valérie,PÉCRESSE,5648
+47,Lot-et-Garonne,Valérie,PÉCRESSE,7703
+48,Lozère,Valérie,PÉCRESSE,3039
+49,Maine-et-Loire,Valérie,PÉCRESSE,21538
+50,Manche,Valérie,PÉCRESSE,14746
+51,Marne,Valérie,PÉCRESSE,14357
+52,Haute-Marne,Valérie,PÉCRESSE,4841
+53,Mayenne,Valérie,PÉCRESSE,9236
+54,Meurthe-et-Moselle,Valérie,PÉCRESSE,13387
+55,Meuse,Valérie,PÉCRESSE,4403
+56,Morbihan,Valérie,PÉCRESSE,22838
+57,Moselle,Valérie,PÉCRESSE,19300
+58,Nièvre,Valérie,PÉCRESSE,5172
+59,Nord,Valérie,PÉCRESSE,42470
+60,Oise,Valérie,PÉCRESSE,17450
+61,Orne,Valérie,PÉCRESSE,8838
+62,Pas-de-Calais,Valérie,PÉCRESSE,25307
+63,Puy-de-Dôme,Valérie,PÉCRESSE,17352
+64,Pyrénées-Atlantiques,Valérie,PÉCRESSE,17166
+65,Hautes-Pyrénées,Valérie,PÉCRESSE,4560
+66,Pyrénées-Orientales,Valérie,PÉCRESSE,8815
+67,Bas-Rhin,Valérie,PÉCRESSE,24812
+68,Haut-Rhin,Valérie,PÉCRESSE,15994
+69,Rhône,Valérie,PÉCRESSE,50263
+70,Haute-Saône,Valérie,PÉCRESSE,6754
+71,Saône-et-Loire,Valérie,PÉCRESSE,15210
+72,Sarthe,Valérie,PÉCRESSE,15937
+73,Savoie,Valérie,PÉCRESSE,13608
+74,Haute-Savoie,Valérie,PÉCRESSE,22349
+75,Paris,Valérie,PÉCRESSE,69564
+76,Seine-Maritime,Valérie,PÉCRESSE,24281
+77,Seine-et-Marne,Valérie,PÉCRESSE,36828
+78,Yvelines,Valérie,PÉCRESSE,61296
+79,Deux-Sèvres,Valérie,PÉCRESSE,9257
+80,Somme,Valérie,PÉCRESSE,11380
+81,Tarn,Valérie,PÉCRESSE,10014
+82,Tarn-et-Garonne,Valérie,PÉCRESSE,5994
+83,Var,Valérie,PÉCRESSE,28342
+84,Vaucluse,Valérie,PÉCRESSE,11918
+85,Vendée,Valérie,PÉCRESSE,22534
+86,Vienne,Valérie,PÉCRESSE,9959
+87,Haute-Vienne,Valérie,PÉCRESSE,9544
+88,Vosges,Valérie,PÉCRESSE,9344
+89,Yonne,Valérie,PÉCRESSE,9322
+90,Territoire de Belfort,Valérie,PÉCRESSE,3322
+91,Essonne,Valérie,PÉCRESSE,33046
+92,Hauts-de-Seine,Valérie,PÉCRESSE,62231
+93,Seine-Saint-Denis,Valérie,PÉCRESSE,17481
+94,Val-de-Marne,Valérie,PÉCRESSE,32522
+95,Val-d'Oise,Valérie,PÉCRESSE,26403
+971,Guadeloupe,Valérie,PÉCRESSE,3979
+972,Martinique,Valérie,PÉCRESSE,4731
+973,Guyane,Valérie,PÉCRESSE,997
+974,La Réunion,Valérie,PÉCRESSE,9738
+976,Mayotte,Valérie,PÉCRESSE,2810
+988,Nouvelle-Calédonie,Valérie,PÉCRESSE,4144
+987,Polynésie française,Valérie,PÉCRESSE,4725
+975,Saint-Pierre-et-Miquelon,Valérie,PÉCRESSE,51
+986,Wallis et Futuna,Valérie,PÉCRESSE,1354
+977_978,Saint-Martin/Saint-Barthélemy,Valérie,PÉCRESSE,354
+fr_etranger,Français établis hors de France,Valérie,PÉCRESSE,20956
+01,Ain,Philippe,POUTOU,2172
+02,Aisne,Philippe,POUTOU,2118
+03,Allier,Philippe,POUTOU,1503
+04,Alpes-de-Haute-Provence,Philippe,POUTOU,865
+05,Hautes-Alpes,Philippe,POUTOU,801
+06,Alpes-Maritimes,Philippe,POUTOU,2989
+07,Ardèche,Philippe,POUTOU,1817
+08,Ardennes,Philippe,POUTOU,1112
+09,Ariège,Philippe,POUTOU,723
+10,Aube,Philippe,POUTOU,1062
+11,Aude,Philippe,POUTOU,1748
+12,Aveyron,Philippe,POUTOU,1354
+13,Bouches-du-Rhône,Philippe,POUTOU,5963
+14,Calvados,Philippe,POUTOU,3764
+15,Cantal,Philippe,POUTOU,650
+16,Charente,Philippe,POUTOU,1763
+17,Charente-Maritime,Philippe,POUTOU,3403
+18,Cher,Philippe,POUTOU,1463
+19,Corrèze,Philippe,POUTOU,1179
+2A,Corse-du-Sud,Philippe,POUTOU,608
+2B,Haute-Corse,Philippe,POUTOU,762
+21,Côte-d'Or,Philippe,POUTOU,2286
+22,Côtes-d'Armor,Philippe,POUTOU,3895
+23,Creuse,Philippe,POUTOU,665
+24,Dordogne,Philippe,POUTOU,2223
+25,Doubs,Philippe,POUTOU,2345
+26,Drôme,Philippe,POUTOU,2109
+27,Eure,Philippe,POUTOU,2710
+28,Eure-et-Loir,Philippe,POUTOU,1766
+29,Finistère,Philippe,POUTOU,6266
+30,Gard,Philippe,POUTOU,2706
+31,Haute-Garonne,Philippe,POUTOU,4888
+32,Gers,Philippe,POUTOU,793
+33,Gironde,Philippe,POUTOU,8734
+34,Hérault,Philippe,POUTOU,4393
+35,Ille-et-Vilaine,Philippe,POUTOU,5376
+36,Indre,Philippe,POUTOU,1155
+37,Indre-et-Loire,Philippe,POUTOU,2882
+38,Isère,Philippe,POUTOU,4826
+39,Jura,Philippe,POUTOU,1343
+40,Landes,Philippe,POUTOU,1975
+41,Loir-et-Cher,Philippe,POUTOU,1527
+42,Loire,Philippe,POUTOU,2767
+43,Haute-Loire,Philippe,POUTOU,1205
+44,Loire-Atlantique,Philippe,POUTOU,7280
+45,Loiret,Philippe,POUTOU,2433
+46,Lot,Philippe,POUTOU,976
+47,Lot-et-Garonne,Philippe,POUTOU,1437
+48,Lozère,Philippe,POUTOU,426
+49,Maine-et-Loire,Philippe,POUTOU,3663
+50,Manche,Philippe,POUTOU,2720
+51,Marne,Philippe,POUTOU,1894
+52,Haute-Marne,Philippe,POUTOU,747
+53,Mayenne,Philippe,POUTOU,1372
+54,Meurthe-et-Moselle,Philippe,POUTOU,3214
+55,Meuse,Philippe,POUTOU,883
+56,Morbihan,Philippe,POUTOU,4376
+57,Moselle,Philippe,POUTOU,4343
+58,Nièvre,Philippe,POUTOU,1010
+59,Nord,Philippe,POUTOU,8265
+60,Oise,Philippe,POUTOU,3048
+61,Orne,Philippe,POUTOU,1334
+62,Pas-de-Calais,Philippe,POUTOU,5488
+63,Puy-de-Dôme,Philippe,POUTOU,3189
+64,Pyrénées-Atlantiques,Philippe,POUTOU,4982
+65,Hautes-Pyrénées,Philippe,POUTOU,1003
+66,Pyrénées-Orientales,Philippe,POUTOU,1995
+67,Bas-Rhin,Philippe,POUTOU,4158
+68,Haut-Rhin,Philippe,POUTOU,2842
+69,Rhône,Philippe,POUTOU,5267
+70,Haute-Saône,Philippe,POUTOU,1295
+71,Saône-et-Loire,Philippe,POUTOU,2369
+72,Sarthe,Philippe,POUTOU,2505
+73,Savoie,Philippe,POUTOU,1849
+74,Haute-Savoie,Philippe,POUTOU,3232
+75,Paris,Philippe,POUTOU,5732
+76,Seine-Maritime,Philippe,POUTOU,5477
+77,Seine-et-Marne,Philippe,POUTOU,4600
+78,Yvelines,Philippe,POUTOU,3963
+79,Deux-Sèvres,Philippe,POUTOU,2134
+80,Somme,Philippe,POUTOU,2206
+81,Tarn,Philippe,POUTOU,1829
+82,Tarn-et-Garonne,Philippe,POUTOU,1057
+83,Var,Philippe,POUTOU,3578
+84,Vaucluse,Philippe,POUTOU,2023
+85,Vendée,Philippe,POUTOU,3621
+86,Vienne,Philippe,POUTOU,2315
+87,Haute-Vienne,Philippe,POUTOU,1787
+88,Vosges,Philippe,POUTOU,1986
+89,Yonne,Philippe,POUTOU,1487
+90,Territoire de Belfort,Philippe,POUTOU,603
+91,Essonne,Philippe,POUTOU,4306
+92,Hauts-de-Seine,Philippe,POUTOU,3704
+93,Seine-Saint-Denis,Philippe,POUTOU,3663
+94,Val-de-Marne,Philippe,POUTOU,3730
+95,Val-d'Oise,Philippe,POUTOU,3352
+971,Guadeloupe,Philippe,POUTOU,713
+972,Martinique,Philippe,POUTOU,977
+973,Guyane,Philippe,POUTOU,462
+974,La Réunion,Philippe,POUTOU,2705
+976,Mayotte,Philippe,POUTOU,328
+988,Nouvelle-Calédonie,Philippe,POUTOU,560
+987,Polynésie française,Philippe,POUTOU,451
+975,Saint-Pierre-et-Miquelon,Philippe,POUTOU,50
+986,Wallis et Futuna,Philippe,POUTOU,48
+977_978,Saint-Martin/Saint-Barthélemy,Philippe,POUTOU,63
+fr_etranger,Français établis hors de France,Philippe,POUTOU,3145
+01,Ain,Nicolas,DUPONT-AIGNAN,8998
+02,Aisne,Nicolas,DUPONT-AIGNAN,5790
+03,Allier,Nicolas,DUPONT-AIGNAN,4216
+04,Alpes-de-Haute-Provence,Nicolas,DUPONT-AIGNAN,2504
+05,Hautes-Alpes,Nicolas,DUPONT-AIGNAN,2142
+06,Alpes-Maritimes,Nicolas,DUPONT-AIGNAN,13307
+07,Ardèche,Nicolas,DUPONT-AIGNAN,4927
+08,Ardennes,Nicolas,DUPONT-AIGNAN,2957
+09,Ariège,Nicolas,DUPONT-AIGNAN,1621
+10,Aube,Nicolas,DUPONT-AIGNAN,3966
+11,Aude,Nicolas,DUPONT-AIGNAN,4206
+12,Aveyron,Nicolas,DUPONT-AIGNAN,3477
+13,Bouches-du-Rhône,Nicolas,DUPONT-AIGNAN,20051
+14,Calvados,Nicolas,DUPONT-AIGNAN,7920
+15,Cantal,Nicolas,DUPONT-AIGNAN,1547
+16,Charente,Nicolas,DUPONT-AIGNAN,4345
+17,Charente-Maritime,Nicolas,DUPONT-AIGNAN,9289
+18,Cher,Nicolas,DUPONT-AIGNAN,3770
+19,Corrèze,Nicolas,DUPONT-AIGNAN,2618
+2A,Corse-du-Sud,Nicolas,DUPONT-AIGNAN,1215
+2B,Haute-Corse,Nicolas,DUPONT-AIGNAN,1374
+21,Côte-d'Or,Nicolas,DUPONT-AIGNAN,6478
+22,Côtes-d'Armor,Nicolas,DUPONT-AIGNAN,6404
+23,Creuse,Nicolas,DUPONT-AIGNAN,1556
+24,Dordogne,Nicolas,DUPONT-AIGNAN,5416
+25,Doubs,Nicolas,DUPONT-AIGNAN,7775
+26,Drôme,Nicolas,DUPONT-AIGNAN,7758
+27,Eure,Nicolas,DUPONT-AIGNAN,7563
+28,Eure-et-Loir,Nicolas,DUPONT-AIGNAN,5731
+29,Finistère,Nicolas,DUPONT-AIGNAN,8566
+30,Gard,Nicolas,DUPONT-AIGNAN,8137
+31,Haute-Garonne,Nicolas,DUPONT-AIGNAN,12443
+32,Gers,Nicolas,DUPONT-AIGNAN,2418
+33,Gironde,Nicolas,DUPONT-AIGNAN,15693
+34,Hérault,Nicolas,DUPONT-AIGNAN,11475
+35,Ille-et-Vilaine,Nicolas,DUPONT-AIGNAN,10560
+36,Indre,Nicolas,DUPONT-AIGNAN,2886
+37,Indre-et-Loire,Nicolas,DUPONT-AIGNAN,7271
+38,Isère,Nicolas,DUPONT-AIGNAN,14327
+39,Jura,Nicolas,DUPONT-AIGNAN,4143
+40,Landes,Nicolas,DUPONT-AIGNAN,4914
+41,Loir-et-Cher,Nicolas,DUPONT-AIGNAN,4427
+42,Loire,Nicolas,DUPONT-AIGNAN,9029
+43,Haute-Loire,Nicolas,DUPONT-AIGNAN,3366
+44,Loire-Atlantique,Nicolas,DUPONT-AIGNAN,14779
+45,Loiret,Nicolas,DUPONT-AIGNAN,7674
+46,Lot,Nicolas,DUPONT-AIGNAN,2400
+47,Lot-et-Garonne,Nicolas,DUPONT-AIGNAN,3912
+48,Lozère,Nicolas,DUPONT-AIGNAN,913
+49,Maine-et-Loire,Nicolas,DUPONT-AIGNAN,9420
+50,Manche,Nicolas,DUPONT-AIGNAN,6886
+51,Marne,Nicolas,DUPONT-AIGNAN,6159
+52,Haute-Marne,Nicolas,DUPONT-AIGNAN,2584
+53,Mayenne,Nicolas,DUPONT-AIGNAN,3858
+54,Meurthe-et-Moselle,Nicolas,DUPONT-AIGNAN,7271
+55,Meuse,Nicolas,DUPONT-AIGNAN,2422
+56,Morbihan,Nicolas,DUPONT-AIGNAN,9586
+57,Moselle,Nicolas,DUPONT-AIGNAN,12651
+58,Nièvre,Nicolas,DUPONT-AIGNAN,2495
+59,Nord,Nicolas,DUPONT-AIGNAN,20617
+60,Oise,Nicolas,DUPONT-AIGNAN,9393
+61,Orne,Nicolas,DUPONT-AIGNAN,3826
+62,Pas-de-Calais,Nicolas,DUPONT-AIGNAN,13970
+63,Puy-de-Dôme,Nicolas,DUPONT-AIGNAN,6922
+64,Pyrénées-Atlantiques,Nicolas,DUPONT-AIGNAN,6721
+65,Hautes-Pyrénées,Nicolas,DUPONT-AIGNAN,2409
+66,Pyrénées-Orientales,Nicolas,DUPONT-AIGNAN,5209
+67,Bas-Rhin,Nicolas,DUPONT-AIGNAN,17009
+68,Haut-Rhin,Nicolas,DUPONT-AIGNAN,13745
+69,Rhône,Nicolas,DUPONT-AIGNAN,16487
+70,Haute-Saône,Nicolas,DUPONT-AIGNAN,3640
+71,Saône-et-Loire,Nicolas,DUPONT-AIGNAN,7745
+72,Sarthe,Nicolas,DUPONT-AIGNAN,6494
+73,Savoie,Nicolas,DUPONT-AIGNAN,6694
+74,Haute-Savoie,Nicolas,DUPONT-AIGNAN,14175
+75,Paris,Nicolas,DUPONT-AIGNAN,9591
+76,Seine-Maritime,Nicolas,DUPONT-AIGNAN,12365
+77,Seine-et-Marne,Nicolas,DUPONT-AIGNAN,15042
+78,Yvelines,Nicolas,DUPONT-AIGNAN,13097
+79,Deux-Sèvres,Nicolas,DUPONT-AIGNAN,4531
+80,Somme,Nicolas,DUPONT-AIGNAN,5616
+81,Tarn,Nicolas,DUPONT-AIGNAN,5123
+82,Tarn-et-Garonne,Nicolas,DUPONT-AIGNAN,3412
+83,Var,Nicolas,DUPONT-AIGNAN,15286
+84,Vaucluse,Nicolas,DUPONT-AIGNAN,6896
+85,Vendée,Nicolas,DUPONT-AIGNAN,9664
+86,Vienne,Nicolas,DUPONT-AIGNAN,5095
+87,Haute-Vienne,Nicolas,DUPONT-AIGNAN,3555
+88,Vosges,Nicolas,DUPONT-AIGNAN,6152
+89,Yonne,Nicolas,DUPONT-AIGNAN,4594
+90,Territoire de Belfort,Nicolas,DUPONT-AIGNAN,1821
+91,Essonne,Nicolas,DUPONT-AIGNAN,15203
+92,Hauts-de-Seine,Nicolas,DUPONT-AIGNAN,9743
+93,Seine-Saint-Denis,Nicolas,DUPONT-AIGNAN,6300
+94,Val-de-Marne,Nicolas,DUPONT-AIGNAN,9359
+95,Val-d'Oise,Nicolas,DUPONT-AIGNAN,8996
+971,Guadeloupe,Nicolas,DUPONT-AIGNAN,2114
+972,Martinique,Nicolas,DUPONT-AIGNAN,2989
+973,Guyane,Nicolas,DUPONT-AIGNAN,717
+974,La Réunion,Nicolas,DUPONT-AIGNAN,8338
+976,Mayotte,Nicolas,DUPONT-AIGNAN,530
+988,Nouvelle-Calédonie,Nicolas,DUPONT-AIGNAN,2697
+987,Polynésie française,Nicolas,DUPONT-AIGNAN,1969
+975,Saint-Pierre-et-Miquelon,Nicolas,DUPONT-AIGNAN,82
+986,Wallis et Futuna,Nicolas,DUPONT-AIGNAN,244
+977_978,Saint-Martin/Saint-Barthélemy,Nicolas,DUPONT-AIGNAN,339
+fr_etranger,Français établis hors de France,Nicolas,DUPONT-AIGNAN,7074
+01,Ain,,abstentions,97541
+02,Aisne,,abstentions,101089
+03,Allier,,abstentions,58497
+04,Alpes-de-Haute-Provence,,abstentions,29290
+05,Hautes-Alpes,,abstentions,25357
+06,Alpes-Maritimes,,abstentions,208250
+07,Ardèche,,abstentions,54114
+08,Ardennes,,abstentions,49368
+09,Ariège,,abstentions,25028
+10,Aube,,abstentions,52384
+11,Aude,,abstentions,62972
+12,Aveyron,,abstentions,43833
+13,Bouches-du-Rhône,,abstentions,383816
+14,Calvados,,abstentions,117799
+15,Cantal,,abstentions,25019
+16,Charente,,abstentions,59909
+17,Charente-Maritime,,abstentions,116437
+18,Cher,,abstentions,59808
+19,Corrèze,,abstentions,38430
+2A,Corse-du-Sud,,abstentions,42366
+2B,Haute-Corse,,abstentions,48263
+21,Côte-d'Or,,abstentions,77886
+22,Côtes-d'Armor,,abstentions,96597
+23,Creuse,,abstentions,21967
+24,Dordogne,,abstentions,64856
+25,Doubs,,abstentions,84117
+26,Drôme,,abstentions,84289
+27,Eure,,abstentions,106463
+28,Eure-et-Loir,,abstentions,78960
+29,Finistère,,abstentions,154870
+30,Gard,,abstentions,132723
+31,Haute-Garonne,,abstentions,183366
+32,Gers,,abstentions,28267
+33,Gironde,,abstentions,249014
+34,Hérault,,abstentions,195766
+35,Ille-et-Vilaine,,abstentions,161427
+36,Indre,,abstentions,41406
+37,Indre-et-Loire,,abstentions,105536
+38,Isère,,abstentions,198676
+39,Jura,,abstentions,41634
+40,Landes,,abstentions,65654
+41,Loir-et-Cher,,abstentions,59350
+42,Loire,,abstentions,118592
+43,Haute-Loire,,abstentions,37000
+44,Loire-Atlantique,,abstentions,236339
+45,Loiret,,abstentions,114468
+46,Lot,,abstentions,27164
+47,Lot-et-Garonne,,abstentions,52907
+48,Lozère,,abstentions,11680
+49,Maine-et-Loire,,abstentions,136866
+50,Manche,,abstentions,93460
+51,Marne,,abstentions,101010
+52,Haute-Marne,,abstentions,33273
+53,Mayenne,,abstentions,52812
+54,Meurthe-et-Moselle,,abstentions,130919
+55,Meuse,,abstentions,34092
+56,Morbihan,,abstentions,130520
+57,Moselle,,abstentions,210299
+58,Nièvre,,abstentions,38850
+59,Nord,,abstentions,514033
+60,Oise,,abstentions,142081
+61,Orne,,abstentions,50935
+62,Pas-de-Calais,,abstentions,286319
+63,Puy-de-Dôme,,abstentions,100869
+64,Pyrénées-Atlantiques,,abstentions,110134
+65,Hautes-Pyrénées,,abstentions,39595
+66,Pyrénées-Orientales,,abstentions,87704
+67,Bas-Rhin,,abstentions,190224
+68,Haut-Rhin,,abstentions,137861
+69,Rhône,,abstentions,255580
+70,Haute-Saône,,abstentions,39039
+71,Saône-et-Loire,,abstentions,95369
+72,Sarthe,,abstentions,105454
+73,Savoie,,abstentions,68929
+74,Haute-Savoie,,abstentions,129384
+75,Paris,,abstentions,296668
+76,Seine-Maritime,,abstentions,222147
+77,Seine-et-Marne,,abstentions,223172
+78,Yvelines,,abstentions,211708
+79,Deux-Sèvres,,abstentions,59403
+80,Somme,,abstentions,102687
+81,Tarn,,abstentions,62818
+82,Tarn-et-Garonne,,abstentions,39625
+83,Var,,abstentions,211212
+84,Vaucluse,,abstentions,101650
+85,Vendée,,abstentions,120547
+86,Vienne,,abstentions,68304
+87,Haute-Vienne,,abstentions,55484
+88,Vosges,,abstentions,68914
+89,Yonne,,abstentions,57549
+90,Territoire de Belfort,,abstentions,22238
+91,Essonne,,abstentions,192200
+92,Hauts-de-Seine,,abstentions,208790
+93,Seine-Saint-Denis,,abstentions,239927
+94,Val-de-Marne,,abstentions,195409
+95,Val-d'Oise,,abstentions,192853
+971,Guadeloupe,,abstentions,174592
+972,Martinique,,abstentions,174588
+973,Guyane,,abstentions,65754
+974,La Réunion,,abstentions,313159
+976,Mayotte,,abstentions,55024
+988,Nouvelle-Calédonie,,abstentions,145807
+987,Polynésie française,,abstentions,142121
+975,Saint-Pierre-et-Miquelon,,abstentions,2272
+986,Wallis et Futuna,,abstentions,4125
+977_978,Saint-Martin/Saint-Barthélemy,,abstentions,15812
+fr_etranger,Français établis hors de France,,abstentions,931455
+01,Ain,,blancs,5641
+02,Aisne,,blancs,3767
+03,Allier,,blancs,3749
+04,Alpes-de-Haute-Provence,,blancs,1478
+05,Hautes-Alpes,,blancs,1395
+06,Alpes-Maritimes,,blancs,7550
+07,Ardèche,,blancs,3311
+08,Ardennes,,blancs,1909
+09,Ariège,,blancs,1532
+10,Aube,,blancs,2339
+11,Aude,,blancs,2962
+12,Aveyron,,blancs,3079
+13,Bouches-du-Rhône,,blancs,13341
+14,Calvados,,blancs,5547
+15,Cantal,,blancs,1803
+16,Charente,,blancs,3293
+17,Charente-Maritime,,blancs,5918
+18,Cher,,blancs,3146
+19,Corrèze,,blancs,2517
+2A,Corse-du-Sud,,blancs,1130
+2B,Haute-Corse,,blancs,1463
+21,Côte-d'Or,,blancs,4577
+22,Côtes-d'Armor,,blancs,5722
+23,Creuse,,blancs,1388
+24,Dordogne,,blancs,3636
+25,Doubs,,blancs,4989
+26,Drôme,,blancs,4577
+27,Eure,,blancs,5085
+28,Eure-et-Loir,,blancs,3489
+29,Finistère,,blancs,8692
+30,Gard,,blancs,5840
+31,Haute-Garonne,,blancs,10129
+32,Gers,,blancs,1762
+33,Gironde,,blancs,12367
+34,Hérault,,blancs,8867
+35,Ille-et-Vilaine,,blancs,9511
+36,Indre,,blancs,2451
+37,Indre-et-Loire,,blancs,5437
+38,Isère,,blancs,10990
+39,Jura,,blancs,2625
+40,Landes,,blancs,4033
+41,Loir-et-Cher,,blancs,3181
+42,Loire,,blancs,6664
+43,Haute-Loire,,blancs,2837
+44,Loire-Atlantique,,blancs,13373
+45,Loiret,,blancs,5512
+46,Lot,,blancs,1767
+47,Lot-et-Garonne,,blancs,2793
+48,Lozère,,blancs,741
+49,Maine-et-Loire,,blancs,8072
+50,Manche,,blancs,4747
+51,Marne,,blancs,3826
+52,Haute-Marne,,blancs,1489
+53,Mayenne,,blancs,3483
+54,Meurthe-et-Moselle,,blancs,5092
+55,Meuse,,blancs,1509
+56,Morbihan,,blancs,7959
+57,Moselle,,blancs,7943
+58,Nièvre,,blancs,1957
+59,Nord,,blancs,17416
+60,Oise,,blancs,6324
+61,Orne,,blancs,2586
+62,Pas-de-Calais,,blancs,10601
+63,Puy-de-Dôme,,blancs,6938
+64,Pyrénées-Atlantiques,,blancs,5816
+65,Hautes-Pyrénées,,blancs,2064
+66,Pyrénées-Orientales,,blancs,3528
+67,Bas-Rhin,,blancs,8335
+68,Haut-Rhin,,blancs,6382
+69,Rhône,,blancs,12708
+70,Haute-Saône,,blancs,2364
+71,Saône-et-Loire,,blancs,5923
+72,Sarthe,,blancs,6694
+73,Savoie,,blancs,3931
+74,Haute-Savoie,,blancs,6918
+75,Paris,,blancs,11028
+76,Seine-Maritime,,blancs,10982
+77,Seine-et-Marne,,blancs,11057
+78,Yvelines,,blancs,9601
+79,Deux-Sèvres,,blancs,3839
+80,Somme,,blancs,4837
+81,Tarn,,blancs,3451
+82,Tarn-et-Garonne,,blancs,2169
+83,Var,,blancs,7803
+84,Vaucluse,,blancs,4350
+85,Vendée,,blancs,7312
+86,Vienne,,blancs,4053
+87,Haute-Vienne,,blancs,3787
+88,Vosges,,blancs,3431
+89,Yonne,,blancs,2715
+90,Territoire de Belfort,,blancs,1242
+91,Essonne,,blancs,8954
+92,Hauts-de-Seine,,blancs,11841
+93,Seine-Saint-Denis,,blancs,7607
+94,Val-de-Marne,,blancs,8501
+95,Val-d'Oise,,blancs,8027
+971,Guadeloupe,,blancs,2719
+972,Martinique,,blancs,4001
+973,Guyane,,blancs,825
+974,La Réunion,,blancs,7361
+976,Mayotte,,blancs,922
+988,Nouvelle-Calédonie,,blancs,1777
+987,Polynésie française,,blancs,1490
+975,Saint-Pierre-et-Miquelon,,blancs,47
+986,Wallis et Futuna,,blancs,27
+977_978,Saint-Martin/Saint-Barthélemy,,blancs,150
+fr_etranger,Français établis hors de France,,blancs,3193
+01,Ain,,nuls,1903
+02,Aisne,,nuls,2828
+03,Allier,,nuls,1790
+04,Alpes-de-Haute-Provence,,nuls,624
+05,Hautes-Alpes,,nuls,532
+06,Alpes-Maritimes,,nuls,4007
+07,Ardèche,,nuls,1459
+08,Ardennes,,nuls,984
+09,Ariège,,nuls,775
+10,Aube,,nuls,1158
+11,Aude,,nuls,1567
+12,Aveyron,,nuls,1654
+13,Bouches-du-Rhône,,nuls,5407
+14,Calvados,,nuls,2571
+15,Cantal,,nuls,821
+16,Charente,,nuls,1740
+17,Charente-Maritime,,nuls,2780
+18,Cher,,nuls,1083
+19,Corrèze,,nuls,1485
+2A,Corse-du-Sud,,nuls,1561
+2B,Haute-Corse,,nuls,877
+21,Côte-d'Or,,nuls,1651
+22,Côtes-d'Armor,,nuls,3040
+23,Creuse,,nuls,743
+24,Dordogne,,nuls,3120
+25,Doubs,,nuls,2176
+26,Drôme,,nuls,1898
+27,Eure,,nuls,1789
+28,Eure-et-Loir,,nuls,1418
+29,Finistère,,nuls,3220
+30,Gard,,nuls,2496
+31,Haute-Garonne,,nuls,5847
+32,Gers,,nuls,850
+33,Gironde,,nuls,5147
+34,Hérault,,nuls,4004
+35,Ille-et-Vilaine,,nuls,3866
+36,Indre,,nuls,1246
+37,Indre-et-Loire,,nuls,2039
+38,Isère,,nuls,3478
+39,Jura,,nuls,1111
+40,Landes,,nuls,1600
+41,Loir-et-Cher,,nuls,1377
+42,Loire,,nuls,2600
+43,Haute-Loire,,nuls,1214
+44,Loire-Atlantique,,nuls,4559
+45,Loiret,,nuls,2148
+46,Lot,,nuls,957
+47,Lot-et-Garonne,,nuls,1502
+48,Lozère,,nuls,395
+49,Maine-et-Loire,,nuls,2983
+50,Manche,,nuls,1948
+51,Marne,,nuls,1702
+52,Haute-Marne,,nuls,819
+53,Mayenne,,nuls,1519
+54,Meurthe-et-Moselle,,nuls,2246
+55,Meuse,,nuls,691
+56,Morbihan,,nuls,3119
+57,Moselle,,nuls,3353
+58,Nièvre,,nuls,938
+59,Nord,,nuls,7676
+60,Oise,,nuls,4002
+61,Orne,,nuls,1067
+62,Pas-de-Calais,,nuls,6150
+63,Puy-de-Dôme,,nuls,2709
+64,Pyrénées-Atlantiques,,nuls,2489
+65,Hautes-Pyrénées,,nuls,896
+66,Pyrénées-Orientales,,nuls,2276
+67,Bas-Rhin,,nuls,3434
+68,Haut-Rhin,,nuls,2386
+69,Rhône,,nuls,3925
+70,Haute-Saône,,nuls,1573
+71,Saône-et-Loire,,nuls,2400
+72,Sarthe,,nuls,2098
+73,Savoie,,nuls,1491
+74,Haute-Savoie,,nuls,2224
+75,Paris,,nuls,5267
+76,Seine-Maritime,,nuls,3158
+77,Seine-et-Marne,,nuls,4145
+78,Yvelines,,nuls,3430
+79,Deux-Sèvres,,nuls,2168
+80,Somme,,nuls,3614
+81,Tarn,,nuls,2067
+82,Tarn-et-Garonne,,nuls,1092
+83,Var,,nuls,3159
+84,Vaucluse,,nuls,1742
+85,Vendée,,nuls,3395
+86,Vienne,,nuls,2002
+87,Haute-Vienne,,nuls,2353
+88,Vosges,,nuls,1874
+89,Yonne,,nuls,1182
+90,Territoire de Belfort,,nuls,590
+91,Essonne,,nuls,3405
+92,Hauts-de-Seine,,nuls,2294
+93,Seine-Saint-Denis,,nuls,3244
+94,Val-de-Marne,,nuls,3118
+95,Val-d'Oise,,nuls,3064
+971,Guadeloupe,,nuls,3627
+972,Martinique,,nuls,3056
+973,Guyane,,nuls,553
+974,La Réunion,,nuls,8253
+976,Mayotte,,nuls,1191
+988,Nouvelle-Calédonie,,nuls,689
+987,Polynésie française,,nuls,1935
+975,Saint-Pierre-et-Miquelon,,nuls,25
+986,Wallis et Futuna,,nuls,17
+977_978,Saint-Martin/Saint-Barthélemy,,nuls,84
+fr_etranger,Français établis hors de France,,nuls,2147
