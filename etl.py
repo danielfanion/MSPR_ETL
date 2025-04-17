@@ -9,16 +9,14 @@ def extract():
     result_df = extract_from_csv("RawData/presidentielle-2022-resultat-departement.csv", ",")
     criminality_df = extract_from_csv("RawData/criminalite-par-departement.csv", ";")
 
-    print("Colonnes result_df :", result_df.columns.tolist())
-    print("Colonnes criminality_df :", criminality_df.columns.tolist())
-
     merged_df = pd.merge(result_df, criminality_df, on='code_departement', how='left')
 
     return merged_df
 
 # Transformation [T]
 def transform(df):
-    transformed_df = df[["code_departement", "libelle_departement", "prenom", "nom", "voix", "indicateur","taux_pour_mille"]]
+    year_filtered_df = df[df['annee'] == 2022]
+    transformed_df = year_filtered_df[["code_departement", "libelle_departement", "prenom", "nom", "voix", "indicateur","taux_pour_mille"]]
 
     transformed_df["taux_pour_mille"] = df["taux_pour_mille"].str.replace(",", ".").astype(float)
 
