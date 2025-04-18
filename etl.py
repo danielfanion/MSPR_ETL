@@ -8,29 +8,40 @@ def extract_from_csv(file, separator):
 def extract():
     result_df = extract_from_csv("RawData/presidentielle-2022-resultat-departement.csv", ",")
     criminality_df = extract_from_csv("RawData/criminalite-par-departement.csv", ";")
+    unemployment_df = extract_from_csv("RawData/chomage-par-departement-2022.csv", ",")
 
-    merged_df = pd.merge(result_df, criminality_df, on='code_departement', how='left')
+    merged_df_1 = pd.merge(result_df, criminality_df, on='code_departement', how='left')
+    merged_df = pd.merge(merged_df_1, unemployment_df[['code_departement', 'taux_chomage']], on='code_departement', how='left')
+
+    print(merged_df[['code_departement', 'libelle_departement', 'taux_chomage']].head(10))
 
     return merged_df
+
 
 # Transformation [T]
 def transform(df):
     year_filtered_df = df[df['annee'] == 2022]
-    transformed_df = year_filtered_df[["code_departement", "libelle_departement", "prenom", "nom", "voix", "indicateur","taux_pour_mille"]]
 
-    transformed_df["taux_pour_mille"] = df["taux_pour_mille"].str.replace(",", ".").astype(float)
+    transformed_df = year_filtered_df[[
+        "code_departement", "libelle_departement", "prenom", "nom",
+        "voix", "taux_chomage", "indicateur", "taux_pour_mille"
+    ]].copy()
 
-    # On cherche à passer les lignes "indicateur" en colonne
+    transformed_df["taux_pour_mille"] = transformed_df["taux_pour_mille"].str.replace(",", ".").astype(float)
+
     pivot_df = transformed_df.pivot_table(
-        index=["code_departement", "libelle_departement", "prenom", "nom"],
+        index=["code_departement", "libelle_departement", "prenom", "nom", "taux_chomage", "voix"],
         columns="indicateur",
         values="taux_pour_mille"
-    )
+    ).reset_index()
 
-    pivot_df.columns = [f"taux_pour_mille_{col}" for col in pivot_df.columns]
-    pivot_df = pivot_df.reset_index()
+    pivot_df.columns = [
+        col if isinstance(col, str) else f"taux_pour_mille_{col}"
+        for col in pivot_df.columns
+    ]
 
     return pivot_df
+
 
 # Chargement [L]
 def load(data_to_load, target_file):
