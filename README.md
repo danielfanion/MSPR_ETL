@@ -61,8 +61,4 @@ Les jeux de données incluent :
 
 ---
 
-## 📫 Contact
-
-Projet réalisé par **[Ton nom / équipe]**  
-Certification : **EISI – Bloc 3 – TPRE813**
 
