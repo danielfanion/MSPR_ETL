@@ -44,21 +44,17 @@ Les jeux de données incluent :
 
 ---
 
-## 📌 À venir
+## 🛠️ Lancer le projet
 
-- Intégration d’un modèle de machine learning (apprentissage supervisé)
-- Visualisation des données via Power BI et/ou Python (matplotlib, seaborn…)
-- Génération de prédictions à 1, 2 et 3 ans
+Téléchargement des dépendances
+```
+pip install pandas openpyxl xlrd
+```
 
----
-
-## 🛠️ Technologies utilisées
-
-- Python 3.x
-- Pandas
-- Numpy
-- Power BI (visualisation interactive)
-
+Lancement de l'ETL
+```
+python etl.py
+```
 ---
 
 
